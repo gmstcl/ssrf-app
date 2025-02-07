@@ -18,7 +18,7 @@ return :
 
 return :
 
-<img src="./API/main.jpg" alt="main.com" width="104" height="142">
+<img src="./API/main.png" alt="main.com" width="1024" height="512">
 
 ### API SSRF Attack
 ```sh
@@ -27,4 +27,4 @@ return :
 
 return :
 
-<img src="./API/ssrf.jpg" alt="ssrf.com" width="104" height="142">
+<img src="./API/ssrf.png" alt="ssrf.com" width="1024" height="512">
